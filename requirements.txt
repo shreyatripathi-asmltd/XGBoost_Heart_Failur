@@ -1,0 +1,8 @@
+mlflow
+pandas
+numpy
+scikit-learn
+xgboost
+lightgbm
+python-dotenv
+matplotlib
