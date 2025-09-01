@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+python-multipart     # needed for file uploads
+mlflow
+pandas
+numpy
+scikit-learn
+xgboost
+lightgbm
+python-dotenv
+matplotlib
